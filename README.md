@@ -1,0 +1,1 @@
+Temperature control on a DE1 board. Functionality to increase/decrease temperature between 10 degrees and 35 degrees. A voltage is written and read from  d/a & and a/d pins to mimic an actual sensor. Temperature is outputted to 7 segment displays, LCD and the PC screen
